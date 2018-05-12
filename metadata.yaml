@@ -1,0 +1,32 @@
+_repo: Grabbes-doppeltes-Gesicht_37229
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: George, Manfred
+    aliases:
+    - Cohn, Manfred
+    - Georg, Manfred
+    birthdate: 1893
+    deathdate: 1965
+    gutenberg_agent_id: '38717'
+    url: http://www.gutenberg.org/2009/agents/38717
+    wikipedia: http://en.wikipedia.org/wiki/Manfred_George
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37229'
+  lccn: '43032008'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grabbe, Christian Dietrich, 1801-1836'
+- !lcc 'PT'
+title: Grabbes doppeltes Gesicht
+url: http://www.gutenberg.org/ebooks/37229
